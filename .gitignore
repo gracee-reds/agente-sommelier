@@ -1,0 +1,7 @@
+*.csv
+*.mp3
+__pycache__/
+*.pyc
+.env
+psycopg2-layer/
+*.zip
