@@ -3,10 +3,10 @@ import uuid
 import urllib.parse
 
 # ── CONFIGURACIÓN ──────────────────────────────────────────────────────────────
-AGENT_ID        = "1FWAWL9025"
-AGENT_ALIAS_ID  = "3ON5PNBW3Y"
-REGION          = "us-east-1"
-WHATSAPP_NUMBER = "521XXXXXXXXXX"  # Reemplazar con el número real del restaurante
+AGENT_ID        = 
+AGENT_ALIAS_ID  = 
+REGION          = 
+WHATSAPP_NUMBER =  
 
 # Cliente de Bedrock
 bedrock_agent = boto3.client(
