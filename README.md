@@ -87,6 +87,6 @@ if resultado["whatsapp_url"]:
 
 ## Notas
 - Las credenciales AWS se entregan por separado a los evaluadores
-- Agent ID: `1FWAWL9025` | Alias: `3ON5PNBW3Y` | Región: `us-east-1`
+- Agent ID: `-----` | Alias: `-------` | Región: `us-east-1`
 - Voz: Mia Neural (español mexicano)
 - El número de WhatsApp se configura en `agente_vinos.py`
